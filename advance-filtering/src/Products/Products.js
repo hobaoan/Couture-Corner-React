@@ -26,8 +26,6 @@ function Products() {
                             </div>
                             <div className='bag'>
                                 <BsFillBagHeartFill className='bag-icon' />
-
-
                             </div>
                         </section>
                     </div>
