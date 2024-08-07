@@ -6,10 +6,11 @@ import Recommended from "./Recommended/Recommended";
 function App() {
   return (
     <>
-      <h1>Xin Chao Dai Ca!</h1>
+      <h1>Coutur Corner Shop </h1>
+      <Recommended />
       <Navigation />
       <Products />
-      <Recommended />
+
     </>
   );
 }
