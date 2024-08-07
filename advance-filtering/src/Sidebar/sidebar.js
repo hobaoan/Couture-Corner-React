@@ -1,4 +1,4 @@
-import "./Sidebar.css";
+import "./sidebar.css";
 import Category from "./Category/Category";
 import Price from "./Price/Price";
 import Colors from "./Color/Colors";
